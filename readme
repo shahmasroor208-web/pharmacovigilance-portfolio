@@ -1,0 +1,44 @@
+# ICSR Case Processing Simulation
+
+## Objective
+
+This project demonstrates practical understanding of the end-to-end Individual Case Safety Report (ICSR) processing workflow in pharmacovigilance.
+
+## Workflow
+
+Report Receipt
+→ Triage
+→ ICSR Validity Assessment
+→ Case Creation
+→ Data Entry
+→ Drug Coding
+→ MedDRA Coding
+→ Seriousness Assessment
+→ Causality Assessment
+→ Narrative Writing
+→ Quality Control
+
+## Skills Practiced
+
+- ICSR validity assessment
+- Triage
+- Suspect drug identification
+- Adverse event identification
+- Indication vs adverse event differentiation
+- Seriousness assessment
+- Outcome assessment
+- Causality assessment
+- MedDRA coding concepts
+- WHODrug coding concepts
+- Case narrative preparation
+- Quality control
+
+## Cases
+
+| Case | Scenario | Status |
+|---|---|---|
+| Case 001 | Drug-associated abdominal pain with hospitalization | Completed |
+
+## Disclaimer
+
+All cases in this repository are simulated educational cases created for pharmacovigilance training. No confidential patient information or proprietary company data is used.
