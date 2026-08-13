@@ -1,0 +1,27 @@
+# PV Case Intake Form
+
+- Case ID: (auto-generated)
+- Reporter name:
+- Reporter contact (email/phone):
+- Reporter type: (HCP / Patient / Consumer / Other)
+- Source: (spontaneous / literature / clinical study / other)
+- Received date (YYYY-MM-DD):
+- Product name (brand/generic):
+- Product batch/lot:
+- Exposure start date:
+- Exposure end date:
+- Route of administration:
+- Dose:
+- Indication for use:
+- Adverse event(s) description (free text):
+- Onset date/time:
+- Outcome (Recovered / Recovering / Not recovered / Fatal / Unknown):
+- Seriousness criteria (check all that apply): Death / Life-threatening / Hospitalization / Disability / Congenital anomaly / Other medically important
+- Concomitant medications (name, dose, start/end):
+- Relevant medical history:
+- Lab results (attach or paste):
+- Follow-up required (yes/no):
+- Attachments (labs, ECG, photos, reports) — link or file reference:
+- Initial reporter statement (verbatim):
+- Intake performed by (name):
+- Notes / triage decision:
