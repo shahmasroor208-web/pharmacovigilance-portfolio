@@ -1,0 +1,84 @@
+# ICSR Case 001 — Initial Case Processing
+
+## 1. Case Information
+
+- Reporter: Physician
+- Patient: 45-year-old male
+- Suspect Drug: Dolo 650
+- Indication: Fever
+- Adverse Event: Severe abdominal pain
+- Outcome: Recovering
+- Hospitalization: Yes
+
+## 2. ICSR Validity / Triage
+
+Valid ICSR: Yes
+
+Four minimum criteria identified:
+
+1. Identifiable patient
+2. Identifiable reporter
+3. Suspect medicinal product
+4. Adverse event
+
+## 3. Seriousness Assessment
+
+Serious: Yes
+
+Seriousness criterion:
+Hospitalization
+
+Reason:
+The patient was admitted to hospital following the adverse event.
+
+## 4. Drug Assessment
+
+Reported drug:
+Dolo 650
+
+Suspect drug:
+Yes
+
+Drug coding:
+To be standardized using the applicable drug dictionary.
+
+## 5. Event Assessment
+
+Indication:
+Fever
+
+Adverse Event:
+Severe abdominal pain
+
+Important distinction:
+Fever is the indication for treatment, while severe abdominal pain is the reported adverse event.
+
+## 6. Outcome
+
+Recovering
+
+## 7. Causality
+
+Reporter assessment:
+Related
+
+## 8. Processing Workflow
+
+Report received
+→ Triage
+→ ICSR validity assessment
+→ Case creation
+→ Data entry
+→ Drug coding
+→ MedDRA coding
+→ Seriousness assessment
+→ Causality assessment
+→ Narrative
+→ Quality Control
+
+## 9. Learning Points
+
+- An indication is not automatically an adverse event.
+- Seriousness is assessed independently from outcome.
+- Hospitalization can meet a seriousness criterion.
+- Triage is the initial assessment of an incoming safety report.
